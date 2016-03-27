@@ -26,4 +26,6 @@ deps
 *.opensdf
 *.vcxproj.filters
 *.vcxproj.user
+*.VC.opendb
+Debug
 Release
